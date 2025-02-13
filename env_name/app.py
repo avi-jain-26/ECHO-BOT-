@@ -14,7 +14,7 @@ def get_gemini_response(question):
 
 st.set_page_config(page_title="CHAT-BOT")
 
-st.header("ECHO BOT 🤖")
+st.header("ECHO-BOT 🤖")
 
 input=st.text_input("Input: ", key="input")
 
