@@ -18,7 +18,7 @@ def get_gemini_response(input, image):
 
 st.set_page_config(page_title="CHAT-BOT")
 
-st.header(" ECHO-BOT 2.0")
+st.header(" ECHO-BOT🤖 2.0")
 
 input=st.text_input("Input: ", key="input")
 
